@@ -3,8 +3,7 @@ title: "test"
 author: "Dom"
 date: "22/05/2021"
 output:
-  pdf_document: default
-  html_document: default
+  github_document
 ---
 
 ```{r setup, include=FALSE}
